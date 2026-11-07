@@ -6,7 +6,7 @@ The folders follow the original homework sequence. Examples include reaction-for
 
 ## Running
 
-Python files generally require NumPy and Matplotlib. MATLAB files can be opened directly in MATLAB. Selected figures and text outputs are included when they make a calculation easier to inspect; submitted reports are omitted.
+Python files generally require NumPy and Matplotlib. MATLAB files can be opened directly in MATLAB. Small generated plots and text outputs are included when they make a calculation easier to inspect. Submitted reports, handwritten solution photographs, student identifiers, and chat screenshots are omitted.
 
 ## Scope
 
