@@ -1,0 +1,10 @@
+Ix = 0.39269908169872414
+Iy = 1.5707963267948966
+Ixy = 0.5
+principal angle in [-90,90] (deg) = 69.83726245213649
+other principal angle in [-90,90] (deg) = -20.162737547863514
+I_x'y' = 0 occurs near (deg): -69.8373, 20.1627
+Ix' max = 1.7543789331199298 at theta = -70.0 deg
+Ix' min = 0.20911647537369082 at theta = 20.0 deg
+Iy' max = 1.75437893311993 at theta = 20.0 deg
+Iy' min = 0.20911647537369082 at theta = -70.0 deg

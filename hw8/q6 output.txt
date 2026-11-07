@@ -1,0 +1,16 @@
+PART 1:
+y(x) = a x^2,  a = 0.0066666667  (1/m)
+=> y(x) = 0.0066666667 x^2
+
+PART 2:
+H = 150.0000000000 kN
+
+PART 3:
+T_A = 150.0000000000 kN
+T_B = 161.5549442140 kN
+Minimum tension at x = 0.0000000000 m,  T_min = 150.0000000000 kN
+
+PART 5:
+Old Tmax = 161.5549442140 kN
+New Tmax (w*1.2) = 193.8659330568 kN
+Percent change in Tmax = 20.0000000000 %
